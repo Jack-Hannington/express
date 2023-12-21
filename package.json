@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@capacitor/cli": "^5.5.1",
+    "@capacitor/core": "^5.5.1",
     "dotenv": "^16.0.3",
     "express": "^4.18.2"
   }
